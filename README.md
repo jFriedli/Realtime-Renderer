@@ -1,4 +1,4 @@
-# Java Project Analysis: "3D Graphics Rendering"
+# Java Real Time Renderer
 
 ## Overview
 
